@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CamViewer" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConfigText" Type="System.String" Scope="User">
+      <Value Profile="(Default)"># CONFIGURATION
+# Enter up to 6 RTSP URLs below
+# Blank lines and lines starting with # are ignored
+</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
